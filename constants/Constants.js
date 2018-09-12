@@ -1,0 +1,20 @@
+export const MENU_LIST = [
+    { index: 1, name: 'Action' },
+    { index: 2, name: 'Action2' },
+    { index: 3, name: 'Action3' },
+    { index: 4, name: 'Action4' },
+    { index: 5, name: 'Action5' },
+    { index: 6, name: 'Action6' },
+    { index: 7, name: 'Action7' },
+    { index: 8, name: 'Action8' },
+    { index: 9, name: 'Action9' },
+    { index: 10, name: 'Action10' },
+    { index: 11, name: 'Action11' },
+    { index: 12, name: 'Action12' },
+    { index: 13, name: 'Action13' },
+    { index: 14, name: 'Action14' },
+    { index: 15, name: 'Action15' },
+    { index: 16, name: 'Action16' },
+    { index: 17, name: 'Sign Out' },
+    
+  ]
